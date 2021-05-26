@@ -1,0 +1,1 @@
+Countries after letter K excluded in order to fit into the repository
